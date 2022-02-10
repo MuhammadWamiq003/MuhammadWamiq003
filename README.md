@@ -1,3 +1,5 @@
+<h2 align="center">A passionate beginner developer from Pakistan</h2>
+
 ### Hello, I'm Muhammad Wamiq 👋
 
 - 🔭 I’m currently working on Fiver as Freelancer
@@ -5,8 +7,6 @@
 - 💬 Ask me about any problem in code.
 - 📫 How to reach me: Twitter #M.Wamiq003
 - ⚡ Fun fact: There are around 700 separate programming languages
-
-<h2 align="center">A passionate beginner developer from Pakistan</h2>
 
 
 <p align="left">
