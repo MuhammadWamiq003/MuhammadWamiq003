@@ -1,5 +1,8 @@
 ### Hello, I'm Muhammad Wamiq 👋
 
+![pro](https://user-images.githubusercontent.com/99263882/153422607-4873e474-091b-41e9-bc2f-3882af0d1d68.jpg)
+
+
 - 🔭 I’m currently working on Fiver as Freelancer
 - 🌱 I’m currently learning Coding
 - 💬 Ask me about any problem in code.
@@ -8,5 +11,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadWamiq003&theme=radical)
 
-![pro](https://user-images.githubusercontent.com/99263882/153422607-4873e474-091b-41e9-bc2f-3882af0d1d68.jpg)
+
 
