@@ -6,7 +6,7 @@
 - 📫 How to reach me: Twitter #M.Wamiq003
 - ⚡ Fun fact: There are around 700 separate programming languages
 
-<h3 align="center">A passionate beginner developer from Pakistan</h3>
+<h2 align="center">A passionate beginner developer from Pakistan</h2>
 
 
 <p align="left">
