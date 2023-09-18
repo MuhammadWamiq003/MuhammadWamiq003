@@ -2,7 +2,7 @@
 
 ### Hello, I'm Muhammad Wamiq 👋
 
-- 🔭 I’m currently working on RV32I 
+- 🔭 I’m currently working on RISC-V/RV32I 
 - 🌱 I’m currently learning Hardware Description Language 
 - 💬 Ask me about any problem in code.
 - 📫 How to reach me: Twitter #M.Wamiq003
