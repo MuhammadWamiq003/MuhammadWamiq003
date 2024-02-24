@@ -1,4 +1,4 @@
-<h2 align="center">A passionate beginner developer from Pakistan</h2>
+<h2 align="center">Hey 👋🏽, This is Muhammad Wamiq</h2>
 
 ### Hello, I'm Muhammad Wamiq 👋
 
