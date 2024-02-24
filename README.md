@@ -1,6 +1,6 @@
 <h2 align="center">Hey 👋🏽, This is Muhammad Wamiq</h2>
 
-### Hello, I'm Muhammad Wamiq 👋
+### Hello, I'm currently working as a Research Trainee At MERL
 
 - 🔭 I’m currently working on RISC-V/RV32I 
 - 🌱 I’m currently learning Hardware Description Language 
